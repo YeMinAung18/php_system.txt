@@ -1,4 +1,3 @@
 <?php 
-$flag = "".file_get_contents(".passwd")."";
-echo $flag;
+echo file_get_contents("index.php");
 ?>
